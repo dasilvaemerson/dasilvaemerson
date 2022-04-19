@@ -3,9 +3,9 @@
 ## I'm an IT Student working in Germany.
 
 - 🌱 I’m currently learning everything 🤣
-- 🔭 I’m currently working on creating webpages and learning how to program
+- 🔭 I’m currently working on creating webpages and improving my Python skills
 - ⚙️ I use daily: .py, .js, .html, .css
-- 🥅 2022 Goals: Learn more about Web-Development
+- 🥅 2022 Goals: Learn more about Web-Development and UX-Design
 - ⚡ Fun fact: I love instruments and play guitar & drums
 &nbsp;&nbsp;
 
